@@ -1,10 +1,15 @@
 👥 Dashboard de Análise de Perfil de Clientes
 
-📖 Sobre o projeto
+## 📖 Sobre o projeto
+
 Este projeto apresenta um dashboard de análise de clientes desenvolvido no Power BI Desktop, com foco no perfil demográfico, segmentação por categoria e identificação de outliers na base de dados.
 O painel reúne indicadores estratégicos sobre idade, altura, peso, estado civil, taxa de desconto e limite de crédito, permitindo uma visão completa do perfil da base de clientes, além de evidenciar o processo de tratamento e limpeza dos dados aplicado antes da análise.
 
-🎯 Objetivos
+
+---
+
+## 🎯 Objetivos
+
 
 * Traçar o perfil demográfico da base de clientes.
 * Analisar a distribuição por estado civil e taxa de desconto.
@@ -13,7 +18,7 @@ O painel reúne indicadores estratégicos sobre idade, altura, peso, estado civi
 * Identificar outliers nas variáveis Altura e Limite de Crédito.
 * Garantir a qualidade e consistência da base de dados utilizada na análise.
 
-📊 Funcionalidades do Dashboard
+## 📊 Funcionalidades do Dashboard
 
 📌 Página 1 — Perfil Demográfico dos Clientes
 Visão geral da base com indicadores de:
