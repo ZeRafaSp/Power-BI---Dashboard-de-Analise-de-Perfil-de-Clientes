@@ -109,17 +109,23 @@ PowerBI-Dashboard-Clientes/
 #**Modelagem dos Dados**
 ![Modelagem dos Dados](screenshots/modelagem.png)
 
+
 #**Página 1 — Perfil Demográfico dos Clientes**
 ![Perfil Demográfico dos Clientes](screenshots/perfil_demografico.png)
+
 
 #**Página 2 — Análise por Tipo de Cliente**
 ![Análise por Tipo de Cliente](screenshots/analise_tipocliente.png)
 
+
 #**Página 3 — Identificação de Outliers em Altura**
 ![Identificação de Outliers em Altura](screenshots/outliers_altura.png)
 
+
 #**Página 4 — Identificação de Outliers no Limite de Crédito**
 ![Identificação de Outliers no Limite de Crédito](screenshots/outliers_credito.png)
+
+---
 
 🚀 **Como visualizar**
 
@@ -140,8 +146,11 @@ Durante o desenvolvimento deste projeto foram aplicados conceitos de:
 * ✔️ Visualização Interativa
 * ✔️ Análise Estatística Descritiva
 
-👨‍💻 Autor
-José Rafael Santos Pereira
+---
+
+#👨‍💻 **Autor**
+#José Rafael Santos Pereira
+
 Desenvolvendo projetos práticos | Power BI | SQL | Python | Business Intelligence
 
 GitHub: https://github.com/ZeRafaSp/
