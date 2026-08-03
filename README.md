@@ -20,7 +20,7 @@ O painel reúne indicadores estratégicos sobre idade, altura, peso, estado civi
 
 ## 📊 Funcionalidades do Dashboard
 
-📌 Página 1 — Perfil Demográfico dos Clientes
+#📌 **Página 1 — Perfil Demográfico dos Clientes**
 Visão geral da base com indicadores de:
 
 * 👥 Total de Clientes
@@ -32,7 +32,7 @@ Visão geral da base com indicadores de:
 * 💸 Total de Clientes por Taxa de Desconto e Estado Civil
 * 🔎 Filtro interativo por Cidade
 
-📌 Página 2 — Análise por Tipo de Cliente
+#📌 **Página 2 — Análise por Tipo de Cliente**
 Segmentação da base por categoria de cliente, permitindo comparar:
 
 * Média de Idade por Tipo de Cliente
@@ -41,20 +41,20 @@ Segmentação da base por categoria de cliente, permitindo comparar:
 * Quantidade de Clientes por Idade e Tipo
 * Total de Clientes por Tipo (Bronze, Prata, Ouro, Diamante)
 
-📌 Página 3 — Identificação de Outliers em Altura
+#📌 **Página 3 — Identificação de Outliers em Altura**
 Análise estatística da variável Altura utilizando o método IQR (intervalo interquartil), com:
 
 * Estatísticas descritivas (mínimo, média, mediana, máximo, desvio padrão)
 * Gráfico de dispersão com limites superior e inferior para identificação visual de outliers
 
-📌 Página 4 — Identificação de Outliers no Limite de Crédito
+#📌 **Página 4 — Identificação de Outliers no Limite de Crédito**
 Análise estatística da variável Limite de Crédito utilizando o método IQR, com:
 
 * Estatísticas descritivas (mínimo, média, mediana, máximo, desvio padrão)
 * Gráfico de dispersão com limites superior e inferior para identificação visual de outliers
 * Identificação e tratamento de valores inconsistentes (ex.: limite de crédito negativo)
 
-🛠️ Ferramentas Utilizadas
+##🛠️ **Ferramentas Utilizadas**
 
 * Power BI Desktop
 * Power Query
@@ -64,7 +64,7 @@ Análise estatística da variável Limite de Crédito utilizando o método IQR, 
 * Segmentações
 * Visualizações Interativas
 
-📌 Indicadores Monitorados
+#📌 **Indicadores Monitorados**
 
 * Total de Clientes
 * Idade, Altura e Peso (média, mínimo, máximo, desvio padrão)
@@ -75,7 +75,9 @@ Análise estatística da variável Limite de Crédito utilizando o método IQR, 
 * Outliers em Altura
 * Outliers em Limite de Crédito
 
-💡 Principais Insights
+---
+
+##💡 **Principais Insights**
 Este dashboard possibilita:
 
 * Compreender o perfil demográfico geral da base de clientes.
@@ -104,28 +106,28 @@ PowerBI-Dashboard-Clientes/
 
 📷 Dashboard
 
-**Modelagem dos Dados**
+#**Modelagem dos Dados**
 ![Modelagem dos Dados](screenshots/modelagem.png)
 
-**Página 1 — Perfil Demográfico dos Clientes**
+#**Página 1 — Perfil Demográfico dos Clientes**
 ![Perfil Demográfico dos Clientes](screenshots/perfil_demografico.png)
 
-**Página 2 — Análise por Tipo de Cliente**
+#**Página 2 — Análise por Tipo de Cliente**
 ![Análise por Tipo de Cliente](screenshots/analise_tipocliente.png)
 
-**Página 3 — Identificação de Outliers em Altura**
+#**Página 3 — Identificação de Outliers em Altura**
 ![Identificação de Outliers em Altura](screenshots/outliers_altura.png)
 
-**Página 4 — Identificação de Outliers no Limite de Crédito**
+#**Página 4 — Identificação de Outliers no Limite de Crédito**
 ![Identificação de Outliers no Limite de Crédito](screenshots/outliers_credito.png)
 
-🚀 Como visualizar
+🚀 **Como visualizar**
 
 1. Faça o download do arquivo `.pbix`.
 2. Abra o projeto utilizando o Power BI Desktop.
 3. Navegue pelas páginas e utilize os filtros para explorar os indicadores.
 
-🎓 Competências Demonstradas
+🎓 **Competências Demonstradas**
 Durante o desenvolvimento deste projeto foram aplicados conceitos de:
 
 * ✔️ Business Intelligence (BI)
