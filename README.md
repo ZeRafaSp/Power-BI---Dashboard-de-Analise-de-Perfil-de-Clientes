@@ -104,7 +104,7 @@ PowerBI-Dashboard-Clientes/
     └── outliers_credito.png
 ```
 
-📷 Dashboard
+#📷 **Dashboard**
 
 #**Modelagem dos Dados**
 ![Modelagem dos Dados](screenshots/modelagem.png)
@@ -148,8 +148,9 @@ Durante o desenvolvimento deste projeto foram aplicados conceitos de:
 
 ---
 
-#👨‍💻 **Autor**
-#José Rafael Santos Pereira
+👨‍💻 **Autor**
+
+José Rafael Santos Pereira
 
 Desenvolvendo projetos práticos | Power BI | SQL | Python | Business Intelligence
 
