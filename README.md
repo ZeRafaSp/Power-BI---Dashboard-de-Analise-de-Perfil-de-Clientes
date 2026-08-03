@@ -103,8 +103,9 @@ PowerBI-Dashboard-Clientes/
     ├── outliers_altura.png
     └── outliers_credito.png
 ```
+---
 
-#📷 **Dashboard**
+## 📷 Dashboard
 
 #**Modelagem dos Dados**
 ![Modelagem dos Dados](screenshots/modelagem.png)
